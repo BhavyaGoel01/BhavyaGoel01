@@ -29,8 +29,3 @@ I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring 
 
 **Other Technologies:** JDBC, Servlets, JSP, RESTful APIs, Hibernate (JPA), Maven, Postman, Spring Tool Suite (STS), Eclipse, IntelliJ IDEA
 
-
-## 🌐 Socials
-<p align="left"> 
-<a href="www.linkedin.com/in/bhavya-goel-a0210b256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
