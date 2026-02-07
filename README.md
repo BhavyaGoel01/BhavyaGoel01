@@ -1,6 +1,6 @@
 # Hi 👋 My name is Bhavya Goel
 
-I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring Boot, Hibernate, React.js, and MySQL**. I’ve worked as a Java intern and completed intensive full stack training, focused on writing clean, scalable, and maintainable code. Currently pursuing **MCA** at **Chandigarh University** with a GPA of 9.1/10. I completed my **BCA from GGSIP University** with a GPA of 9.67/10, ranking 16th in my university cohort. Skilled in applying object-oriented programming, problem-solving, and collaboration through academic projects and professional experience.
+I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring Boot, Hibernate, React.js, and MySQL**. I’ve worked as a Java intern and completed full stack training, writing clean, scalable, and maintainable code. Currently pursuing **MCA** at **Chandigarh University** with a GPA of 9.1/10. I completed **BCA from GGSIP University** with a GPA of 9.67/10, ranking 16th in university cohort. Skilled in applying object-oriented programming, problem-solving, and collaboration through academic projects and professional experience.
 
 * 🌍  I'm based in **Delhi, India**
 * ✉️  You can contact me at **[bhavyagoel134@gmail.com](mailto:bhavyagoel134@gmail.com)**
