@@ -1,6 +1,6 @@
 # Hi 👋 My name is Bhavya Goel
 
-I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring Boot, Hibernate, React.js, and MySQL**. Currently pursuing **Master of Computer Applications (MCA)** at **Chandigarh University** with a GPA of 9.1/10. I completed my **BCA from GGSIP University** with a GPA of 9.67/10, ranking 16th in my university cohort. Skilled in applying object-oriented programming, problem-solving, and collaboration through academic projects and professional experience.
+I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring Boot, Hibernate, React.js, and MySQL**. I’ve worked as a Java intern and completed intensive full stack training, focused on writing clean, scalable, and maintainable code. Currently pursuing **MCA** at **Chandigarh University** with a GPA of 9.1/10. I completed my **BCA from GGSIP University** with a GPA of 9.67/10, ranking 16th in my university cohort. Skilled in applying object-oriented programming, problem-solving, and collaboration through academic projects and professional experience.
 
 * 🌍  I'm based in **Delhi, India**
 * ✉️  You can contact me at **[bhavyagoel134@gmail.com](mailto:bhavyagoel134@gmail.com)**
@@ -27,5 +27,5 @@ I am a **Java Full Stack Developer** with a strong foundation in **Java, Spring 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-**Other Technologies:** JDBC, Servlets, JSP, RESTful APIs, Hibernate (JPA), Maven, Postman, Spring Tool Suite (STS), Eclipse, IntelliJ IDEA
+**Other Technologies:** JDBC, JSP, Servlets, RESTful APIs, Hibernate (JPA), Maven, Postman, Spring Tool Suite (STS)
 
